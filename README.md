@@ -86,9 +86,9 @@ Predictions:
  [ 2.10914107 35.63894336]]
 ```
 ## Output:
-![image](https://github.com/user-attachments/assets/3735ceed-2ce1-46b7-a583-f43c220cb1cb)
 
-![image](https://github.com/user-attachments/assets/be383295-53ba-48c1-bc96-56858f24d7cd)
+![image](https://github.com/user-attachments/assets/9584167e-bf44-455f-9f00-67f313fc8639)
+
 
 
 
